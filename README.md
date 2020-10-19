@@ -229,6 +229,7 @@ This is CS193P Class, Stanford University's introduction to iOS Application Deve
 
 ## Lecture 14: UIKit Integration
 
+[Video](https://youtu.be/GRX5Dha_Clw)
 [Slides](./documents/Slides/l14.pdf)
 
 
