@@ -128,31 +128,18 @@ This is CS193P Class, Stanford University's introduction to iOS Application Deve
 [Video](https://youtu.be/CKexGQuIO7E)
 
 -   [Initialize @State var in initializer](https://youtu.be/CKexGQuIO7E?t=213)
-
 -   [Share viewmodel via @EnviromentObject](https://youtu.be/CKexGQuIO7E?t=1011)
-
 -   [Form](https://youtu.be/CKexGQuIO7E?t=1648)
-
 -   [KeyPath](https://youtu.be/CKexGQuIO7E?t=2005)
-
 -   [Hashable/Equatable/Identifiable](https://youtu.be/CKexGQuIO7E?t=3278)
-
 -   [@EnvironmentObject](https://youtu.be/CKexGQuIO7E?t=3728)
-
 -   [List](https://youtu.be/CKexGQuIO7E?t=3830)
-
 -   [Inject EnvironmentObject](https://youtu.be/CKexGQuIO7E?t=3861)
-
 -   [Navigation Link](https://youtu.be/CKexGQuIO7E?t=4033)
-
 -   [Alert](https://youtu.be/CKexGQuIO7E?t=4785)
-
 -   [Swipe to Delete](https://youtu.be/CKexGQuIO7E?t=5331)
-
 -   [Edit Mode](https://youtu.be/CKexGQuIO7E?t=5467)
-
 -   [Set environment](https://youtu.be/CKexGQuIO7E?t=5663)
-
 -   [.zIndex()](https://youtu.be/CKexGQuIO7E?t=6102)
 
 [Slides](./documents/Slides/l10.pdf)
@@ -164,15 +151,10 @@ This is CS193P Class, Stanford University's introduction to iOS Application Deve
 [Video](https://youtu.be/fCfC6m7XUew)
 
 -   [Init a @Binding var(using \_var)](https://youtu.be/fCfC6m7XUew?t=1558)
-
 -   [Init @State with wrappedValue](https://youtu.be/fCfC6m7XUew?t=1770)
-
 -   [Picker](https://youtu.be/fCfC6m7XUew?t=1861)
-
 -   [Picker in Form](https://youtu.be/fCfC6m7XUew?t=2155)
-
 -   [Picker and .tag()](https://youtu.be/fCfC6m7XUew?t=2680)
-
 -   [Toggle in Form](https://youtu.be/fCfC6m7XUew?t=2904)
 
 [Slides](./documents/Slides/l11.pdf)
@@ -182,33 +164,19 @@ This is CS193P Class, Stanford University's introduction to iOS Application Deve
 [Video](https://youtu.be/yOhyOpXvaec)
 
 -   [Core Data Features](https://youtu.be/yOhyOpXvaec?t=265)
-
 -   [SwiftUI Integration](https://youtu.be/yOhyOpXvaec?t=304)
-
 -   [Read/Write data](https://youtu.be/yOhyOpXvaec?t=737)
-
 -   [@FetchRequest](https://youtu.be/yOhyOpXvaec?t=1009)
-
 -   [Build Objects Graph in Core Data](https://youtu.be/yOhyOpXvaec?t=1610)
-
 -   [Fetch/Create Object](https://youtu.be/yOhyOpXvaec?t=2361)
-
 -   [NSPredicate](https://youtu.be/yOhyOpXvaec?t=2442)
-
 -   [NSSortDescriptor](https://youtu.be/yOhyOpXvaec?t=2521)
-
 -   [Deal with NSSet of one to many relationship](https://youtu.be/yOhyOpXvaec?t=3255)
-
 -   [Deal with non-optional value](https://youtu.be/yOhyOpXvaec?t=3499)
-
 -   [@FetchRequest demo](https://youtu.be/yOhyOpXvaec?t=3762)
-
 -   [Init @FetchRequest](https://youtu.be/yOhyOpXvaec?t=3926)
-
 -   [TRUEPREDICATE](https://youtu.be/yOhyOpXvaec?t=4884)
-
 -   [Crash Error: Context in environment is not connected to a persistent store coordinator](https://youtu.be/yOhyOpXvaec?t=5160)
-
 -   [Build a programmatic NSPredicate](https://youtu.be/yOhyOpXvaec?t=5406)
 
 [Slides](./documents/Slides/l12.pdf)
