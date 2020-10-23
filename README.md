@@ -21,7 +21,7 @@ This is CS193P Class, Stanford University's introduction to iOS Application Deve
 
 [Reading 1](./documents/Readings/r1.pdf)
 
-[Assignment 1](./documents/Assignments/a1.pdf)
+- [x] [Assignment 1](./documents/Assignments/a1.pdf)
 
 ## Lecture 3: Reactive UI + Protocols + Layout
 
