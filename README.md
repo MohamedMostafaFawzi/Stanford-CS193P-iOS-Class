@@ -19,7 +19,7 @@ This is CS193P Class, Stanford University's introduction to iOS Application Deve
 
 [Slides](./documents/Slides/l2.pdf)
 
-[Reading 1](./documents/Readings/r1.pdf)
+- [x] [Reading 1](./documents/Readings/r1.pdf)
 
 - [x] [Assignment 1](./documents/Assignments/a1.pdf)
 
@@ -45,9 +45,9 @@ This is CS193P Class, Stanford University's introduction to iOS Application Deve
 
 [Slides](./documents/Slides/l4.pdf)
 
-[Reading 2](./documents/Readings/r2.pdf)
+- [ ] [Reading 2](./documents/Readings/r2.pdf)
 
-[Assignment 2](./documents/Assignments/a2.pdf)
+- [ ] [Assignment 2](./documents/Assignments/a2.pdf)
 
 ## Lecture 5: ViewBuilder + Shape + ViewModifier
 
@@ -74,9 +74,9 @@ This is CS193P Class, Stanford University's introduction to iOS Application Deve
 
 [Slides](./documents/Slides/l6.pdf)
 
-[Reading 3](./documents/Readings/r3.pdf)
+- [ ] [Reading 3](./documents/Readings/r3.pdf)
 
-[Assignment 3](./documents/Assignments/a3.pdf)
+- [ ] [Assignment 3](./documents/Assignments/a3.pdf)
 
 ## Lecture 7: Multithreading EmojiArt
 
@@ -102,9 +102,9 @@ This is CS193P Class, Stanford University's introduction to iOS Application Deve
 
 [Slides](./documents/Slides/l8.pdf)
 
-[Assignment 4](./documents/Assignments/a4.pdf)
+- [ ] [Assignment 4](./documents/Assignments/a4.pdf)
 
-[Assignment 5](./documents/Assignments/a5.pdf)
+- [ ] [Assignment 5](./documents/Assignments/a5.pdf)
 
 ## Lecture 9: Data Flow
 
@@ -144,7 +144,7 @@ This is CS193P Class, Stanford University's introduction to iOS Application Deve
 
 [Slides](./documents/Slides/l10.pdf)
 
-[Assignment 6](./documents/Assignments/a6.pdf)
+- [ ] [Assignment 6](./documents/Assignments/a6.pdf)
 
 ## Lecture 11: Enroute Picker
 
